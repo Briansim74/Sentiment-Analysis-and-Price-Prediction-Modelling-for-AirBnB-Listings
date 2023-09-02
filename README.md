@@ -9,7 +9,7 @@ and comparing it with its actual price to find if the listing is over or under-p
 <br/> garners favourable or negative sentiments, and together with the price prediction, conclude if the AirBnB listing
 <br/>is overrated or underrated.
 
-<br/>In this folder is the Complete Prediction Notebook, which is named Final Project Notebook. To ensure consistency, it is suggested to pre-load the current files and models we have processed and/or trained. In addition, large files have been compressed and to viet them, it is suggested to unzip all the files uploaded. The final output of this Notebook, which is called 7. final_sentiment.csv, will not be uploaded as its file size is too large, but this file may be created by following the notebook along.
+<br/>In this folder is the Final Project Notebook. To ensure consistency, it is suggested to pre-load the current files and models we have processed and/or trained. In addition, large files have been compressed and to viet them, it is suggested to unzip all the files uploaded. The final output of this Notebook, which is called 7. final_sentiment.csv, will not be uploaded as its file size is too large, but this file may be created by following the notebook along.
 
 <br/>We have used the Boston AirBnB listings from the Kaggle Dataset, which includes:
 
@@ -32,5 +32,7 @@ We have 3 pre-trained models, which include:
 1. airbnb_pycaret.pkl
 2. airbnb_keras folder
 3. word2vec.model
+
+Lastly, we have included our Final Report together with the notebook for reference.
 
 <br/>This notebook was done together with my fellow group members - Jovon Lim, Samuel Ang and Jin Yong He - for our Final Project of E178 Statistics and Data Science Module in UC, Berkeley.
