@@ -8,3 +8,5 @@ and comparing it with its actual price to find if the listing is over or under-p
 <br/> In addition, we will make use of Sentiment Analysis from the reviews of AirBnB listings to determine if the listing
 <br/> garners favourable or negative sentiments, and together with the price prediction, conclude if the AirBnB listing
 <br/>is overrated or underrated.
+
+<br/>This notebook was done together with my fellow group members - Jovon Lim, Samuel Ang and Jin Yong He for the Final <br/>Project of E178 Statistics and Data Science Module in UC, Berkeley.
