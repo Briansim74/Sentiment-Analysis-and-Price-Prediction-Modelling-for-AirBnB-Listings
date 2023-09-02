@@ -11,7 +11,7 @@ and comparing it with its actual price to find if the listing is over or under-p
 
 <br/>In this folder is the Complete Prediction Notebook, which is named Final Project Notebook. To ensure consistency, it is suggested to pre-load the current files and models we have processed and/or trained. In addition, large files have been compressed and to viet them, it is suggested to unzip all the files uploaded. The final output of this Notebook, which is called 7. final_sentiment.csv, will not be uploaded as its file size is too large, but this file may be created by following the notebook along.
 
-We have used the Boston AirBnB listings from the Kaggle Dataset, which includes:
+<br/>We have used the Boston AirBnB listings from the Kaggle Dataset, which includes:
 
 1. calendar.csv
 2. listings.csv
